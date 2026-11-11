@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Qilin Editor — https://github.com/qilin-editor/qilin-app
-- **Original authors:** Copyright (c) 2018 Qilin; The above copyright notice and this permission notice shall be included in all; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+- **Original authors:** Copyright (c) 2018 Qilin
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 2261db309a629c4eda7a8f151ae4871b1033c93b (upstream HEAD of `development` at acquisition)
 - **Date acquired:** 2026-11-08
